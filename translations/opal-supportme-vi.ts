@@ -110,7 +110,7 @@
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="153"/>
         <source>Don&apos;t ask me again</source>
-        <translation type="unfinished"></translation>
+        <translation>Đừng hỏi lại</translation>
     </message>
 </context>
 </TS>
