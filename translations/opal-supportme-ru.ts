@@ -37,7 +37,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="16"/>
         <source>Translate on %1</source>
-        <translation>Перевести на Веблейт</translation>
+        <translation>Перевести на %1</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="17"/>
