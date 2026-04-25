@@ -6,7 +6,7 @@
     <message>
         <location filename="../Opal/SupportMe/AskForSupport.qml" line="175"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation>Per favore, considera di contribuire al progetto in un modo o l&apos;altro.</translation>
+        <translation>Per favore, considera di contribuire al progetto in un modo o nell&apos;altro.</translation>
     </message>
 </context>
 <context>
@@ -52,7 +52,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="21"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation>Supportaci con manutenzione e pacchettizzazione, scrivendo codice, o fornendoci dettagliati report di bug.</translation>
+        <translation>Supportaci con manutenzione e impacchettamento, scrivendo codice, o fornendoci dettagliati report di bug.</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="24"/>
@@ -67,7 +67,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="29"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation>Sviluppo Software Libero perché sono convinto che sia la cosa più etica da fare - ed è un hobby divertente. Ad ogni modo, sviluppare software richiede molto tempo ed impegno. Siccome Sailfish e vivere in generale richiedono soldi, ho bisogno del tuo supporto per poter spendere tempo in progetti non remunerati come questo.</translation>
+        <translation>Sviluppo Software Libero perché sono convinto che sia la cosa più etica da fare - ed è un&apos;hobby divertente. Ad ogni modo, sviluppare software richiede molto tempo e impegno. Siccome Sailfish e vivere in generale richiedono soldi, ho bisogno del tuo supporto per poter spendere tempo in progetti non remunerati come questo.</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="36"/>
@@ -77,12 +77,12 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="37"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation>Jolla ha recentemente alzato i prezzi e sta cercando di obbligare gli sviluppatori (che lavorano già gratis) a pagare un abbonamento per Sailfish.</translation>
+        <translation>Jolla ha recentemente alzato i prezzi e sta cercando di obbligare gli sviluppatori (che lavorano già gratis) a pagare un&apos;abbonamento per Sailfish.</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="40"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation>Se puoi farlo, donare è il miglior modo di assicurarti che io continui a sviluppare app per Sailfish. Ogni cifra è apprezzata, che sia una tazza di caffè, un pezzo di pizza, o di più.</translation>
+        <translation>Se puoi farlo, donare è il miglior modo di assicurarti che io continui a sviluppare app per Sailfish. Ogni cifra è apprezzata, che sia una tazza di caffè, un pezzo di pizza o altro.</translation>
     </message>
 </context>
 <context>
